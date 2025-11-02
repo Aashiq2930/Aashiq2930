@@ -7,7 +7,7 @@
 <h3 align="center">🎓 Engineering Student | 🤖 Machine Learning Enthusiast | 🧠 Data Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Developer+👨‍💻;Building+Intelligent+Systems;Turning+Data+into+Decisions;Deep+Learning+%7C+MLOps+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Engineering+Student;Building+Intelligent+Systems;Turning+Data+into+Decisions;Deep+Learning+%7C+MLOps+%7C+LLMs" alt="Typing SVG" />
 </p>
 
 ---
