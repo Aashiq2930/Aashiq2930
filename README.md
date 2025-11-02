@@ -1,10 +1,13 @@
-<h1 align="center">🌌 Yo, it's <a href="https://github.com/Aashiq2930">Aashiq M</a> — AI Developer 👨‍💻</h1>
+<p align="center">
+  <img src="https://i.imgur.com/hE2G8MZ.jpeg" alt="Tokyo Night Skyline" width="100%" />
+</p>
+
+<h1 align="center">🚀 Yo, it’s Aashiq M — AI Developer 👨‍💻</h1>
 <h3 align="center">🎓 Engineering Student | 🤖 Machine Learning Enthusiast | 🧠 Data Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+Developer;Building+Intelligent+Systems;Turning+Data+into+Decisions;Deep+Learning+%7C+MLOps+%7C+LLMs" alt="Typing SVG" />
 </p>
-
 ---
 
 ### 🧩 About Me  
