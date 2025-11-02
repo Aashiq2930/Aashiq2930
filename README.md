@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/L5r7sPU.png" alt="AI Circuit Background" width="100%" />
-</p>
+
 
 <h1 align="center">🚀 Yo, it’s Aashiq M — AI Developer 👨‍💻</h1>
 <h3 align="center">🎓 Engineering Student | 🤖 Machine Learning Enthusiast | 🧠 Data Innovator</h3>
