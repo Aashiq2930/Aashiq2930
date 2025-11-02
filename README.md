@@ -4,7 +4,7 @@
 
 
 <!-- 🔥 Header Section -->
-<h1 align="center">🚀 Yo!! — an artist of intelligence and an architect of code 👨‍💻</h1>
+<h1 align="center">🚀 An artist of intelligence and an architect of code 👨‍💻</h1>
 
 <!-- About section (optional intro) -->
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <!-- 🌌 Footer Line -->
-<h3 align="center">✨ Yo!! — blending art, algorithms, and ambition into code 👨‍💻</h3>
+<h3 align="center">✨ Blending art, algorithms, and ambition into code 👨‍💻</h3>
 
 
 <p align="center">
