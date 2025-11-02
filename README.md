@@ -3,8 +3,22 @@
 </p>
 
 
-<h1 align="center">🚀 An artist of intelligence and an architect of code.</h1>
-<h3 align="center">🎓 Engineering Student | 🤖 Machine Learning Enthusiast | 🧠 Data Innovator</h3>
+<!-- 🔥 Header Section -->
+<h1 align="center">🚀 Yo!! — an artist of intelligence and an architect of code 👨‍💻</h1>
+
+<!-- Optional animated line or divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aashiq2930/Aashiq2930/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
+
+<!-- About section (optional intro) -->
+<p align="center">
+  Crafting AI-driven solutions, optimizing systems, and building the future — one line of code at a time.
+</p>
+
+<!-- 🌌 Footer Line -->
+<h3 align="center">✨ Yo!! — blending art, algorithms, and ambition into code 👨‍💻</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Engineering+Student;Building+Intelligent+Systems;Turning+Data+into+Decisions;Deep+Learning+%7C+MLOps+%7C+LLMs" alt="Typing SVG" />
