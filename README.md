@@ -94,7 +94,7 @@ A library chatbot designed to assist users with book searches, queries, and libr
 ### 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/Aashiq2930/Aashiq2930/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Aashiq2930/Aashiq2930/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
