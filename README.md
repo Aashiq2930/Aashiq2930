@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">🚀 Yo, it’s Aashiq M — AI Developer 👨‍💻</h1>
+<h1 align="center">🚀 Yo, it’s Aashiq M — Developer 👨‍💻</h1>
 <h3 align="center">🎓 Engineering Student | 🤖 Machine Learning Enthusiast | 🧠 Data Innovator</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ### 🧩 About Me  
 - 🎯 Passionate **AI developer** focused on creating smart, data-driven applications  
 - 🧠 Exploring **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)**  
-- 🔭 Currently building **intelligent automation systems** and **AI-driven web apps**  
+- 🔭 Currently building **Smart Life**  
 - 🧰 Experienced with **Python**, **TensorFlow**, **PyTorch**, and **OpenAI APIs**  
 - 🌱 Learning **MLOps**, **Model Deployment**, and **Cloud AI Services**  
 - ⚡ Fun fact: I treat every dataset like a mystery waiting to be solved 🔍  
