@@ -86,7 +86,7 @@ A library chatbot designed to assist users with book searches, queries, and libr
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aashiq2930&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Training%20Neural%20Networks-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Error%20404%20🙃-58A6FF?style=flat-square" />
 </p>
 
 ---
