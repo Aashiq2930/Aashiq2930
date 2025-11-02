@@ -1,10 +1,9 @@
-<h1 align="center">🚀 Aashiq M here — AI Developer 👨‍💻</h1>
+<h1 align="center">🌌 Yo, it's <a href="https://github.com/Aashiq2930">Aashiq M</a> — AI Developer 👨‍💻</h1>
 <h3 align="center">🎓 Engineering Student | 🤖 Machine Learning Enthusiast | 🧠 Data Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+Developer;Building+Intelligent+Systems;Turning+Data+into+Decisions;Deep+Learning+%7C+MLOps+%7C+LLMs" alt="Typing SVG" />
 </p>
-
 
 ---
 
@@ -89,6 +88,14 @@ Deep learning model using **Faster R-CNN with ResNet-50** for object detection o
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aashiq2930&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Training%20Neural%20Networks-58A6FF?style=flat-square" />
+</p>
+
+---
+
+### 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/Aashiq2930/Aashiq2930/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
