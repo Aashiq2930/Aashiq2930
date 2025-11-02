@@ -13,11 +13,11 @@
 ---
 
 ### 🧩 About Me  
-- 🎯 Passionate **AI developer** focused on creating smart, data-driven applications  
-- 🧠 Exploring **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)**  
+- 🎯 Passionate **Developer** focused on creating smart, data-driven applications  
+- 🧠 Exploring **Machine Learning**, **Deep Learning** and **Large Language Models (LLMs)**  
 - 🔭 Currently building **Smart Life**  
-- 🧰 Experienced with **Python**, **TensorFlow**, **PyTorch**, and **OpenAI APIs**  
-- 🌱 Learning **Model Deployment**, and **Cloud AI Services**  
+- 🧰 Experienced with **Python**, **TensorFlow**, **PyTorch** and **OpenAI APIs**  
+- 🌱 Learning **Model Deployment** and **Cloud AI Services**  
 - ⚡ Fun fact: ⚔️ I don’t debug — I duel bugs.
 
 ---
