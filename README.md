@@ -89,16 +89,6 @@ A library chatbot designed to assist users with book searches, queries, and libr
   <img src="https://img.shields.io/badge/Status-Error%20404%20🙃-58A6FF?style=flat-square" />
 </p>
 
----
-
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aashiq2930/Aashiq2930/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 <p align="center">
   💡 “Teaching machines to learn is an art — and I’m the artist behind the art.”  
 </p>
