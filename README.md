@@ -7,7 +7,7 @@
 <h3 align="center">🎓 Engineering Student | 🤖 Machine Learning Enthusiast | 🧠 Data Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+Developer;Building+Intelligent+Systems;Turning+Data+into+Decisions;Deep+Learning+%7C+MLOps+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Developer👨‍💻;Building+Intelligent+Systems;Turning+Data+into+Decisions;Deep+Learning+%7C+MLOps+%7C+LLMs" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,40 +17,34 @@
 - 🧠 Exploring **Machine Learning**, **Deep Learning**, and **Large Language Models (LLMs)**  
 - 🔭 Currently building **Smart Life**  
 - 🧰 Experienced with **Python**, **TensorFlow**, **PyTorch**, and **OpenAI APIs**  
-- 🌱 Learning **MLOps**, **Model Deployment**, and **Cloud AI Services**  
-- ⚡ Fun fact: I treat every dataset like a mystery waiting to be solved 🔍  
+- 🌱 Learning **Model Deployment**, and **Cloud AI Services**  
+- ⚡ Fun fact: ⚔️ I don’t debug — I duel bugs.
 
 ---
 
 ### 🧠 Tech Stack  
 
 #### 🐍 Languages  
-`Python` | `C++` | `JavaScript` | `PHP` | `HTML` | `CSS` | `SQL`
+`Python` | `SQL` | `HTML` | `CSS` | `C` 
 
 #### 🧩 AI & ML  
-`TensorFlow` | `PyTorch` | `Scikit-learn` | `Pandas` | `NumPy` | `Matplotlib` | `OpenCV` | `Transformers`
+`TensorFlow` | `PyTorch` | `Scikit-learn` | `Pandas` | `NumPy` | `Transformers`
 
 #### 🗄️ Databases  
-`MySQL` | `PostgreSQL` | `SQLite`
+`MySQL` 
 
 #### ☁️ Deployment & MLOps  
-`Docker` | `FastAPI` | `Flask` | `Streamlit` | `AWS` | `Google Cloud` | `GitHub Actions`
+`Docker` | `Streamlit` | `GitHub Actions`
 
 #### 💻 Dev Tools  
-`VS Code` | `Colab` | `Jupyter` | `Git` | `Postman` | `Linux`  
+`VS Code` | `Colab` | `Jupyter` | `Git` 
 
 ---
 
 ### 🚀 Featured Projects  
 
-🧬 **[AI Product Launch Strategy Generator](https://github.com/Aashiq2930/ai-product-launch)**  
-A custom-trained LLM that generates strategic product launch plans — from marketing ideas to pricing recommendations.  
-
-📈 **[SupplyChainAI](https://github.com/Aashiq2930/supplychain-ai)**  
-ML-powered system that forecasts demand, manages inventory, and optimizes supply chain operations in real time.  
-
-🎥 **[VisionNet](https://github.com/Aashiq2930/visionnet)**  
-Deep learning model using **Faster R-CNN with ResNet-50** for object detection on the COCO dataset.  
+🧬 **[AI Powered Library Chatbot]([https://github.com/Aashiq2930/Library-Chatbot])**  
+A library chatbot designed to assist users with book searches, queries, and library-related information 
 
 ---
 
@@ -75,7 +69,7 @@ Deep learning model using **Faster R-CNN with ResNet-50** for object detection o
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:aashiq2930@gmail.com">
+  <a href="mailto:aashiqmoffi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Aashiq2930">
@@ -106,5 +100,5 @@ Deep learning model using **Faster R-CNN with ResNet-50** for object detection o
 ---
 
 <p align="center">
-  💡 “Machines learn — but developers like me teach them how to think.”  
+  💡 “Teaching machines to learn is an art — and I’m the artist behind the art.”  
 </p>
