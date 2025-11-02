@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">🚀 Yo, it’s Aashiq M — Developer 👨‍💻</h1>
+<h1 align="center">🚀 An artist of intelligence and an architect of code.</h1>
 <h3 align="center">🎓 Engineering Student | 🤖 Machine Learning Enthusiast | 🧠 Data Innovator</h3>
 
 <p align="center">
