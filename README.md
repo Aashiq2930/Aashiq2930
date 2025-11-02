@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aashiq2930/Aashiq2930/main/banner.gif" width="100%" />
+</p>
 
 
 <h1 align="center">🚀 Yo, it’s Aashiq M — AI Developer 👨‍💻</h1>
