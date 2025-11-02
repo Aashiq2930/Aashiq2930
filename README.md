@@ -6,11 +6,6 @@
 <!-- 🔥 Header Section -->
 <h1 align="center">🚀 Yo!! — an artist of intelligence and an architect of code 👨‍💻</h1>
 
-<!-- Optional animated line or divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aashiq2930/Aashiq2930/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</p>
-
 <!-- About section (optional intro) -->
 <p align="center">
   Crafting AI-driven solutions, optimizing systems, and building the future — one line of code at a time.
