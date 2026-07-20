@@ -34,7 +34,7 @@
 ### 🧠 Tech Stack  
 
 #### 🐍 Languages  
-`Python` | `SQL` | `HTML` | `CSS` | `C` 
+`Python` | `SQL` 
 
 #### 🧩 AI & ML  
 `TensorFlow` | `PyTorch` | `Scikit-learn` | `Pandas` | `NumPy` | `Transformers`
@@ -46,7 +46,7 @@
 `Docker` | `Streamlit` | `GitHub Actions`
 
 #### 💻 Dev Tools  
-`VS Code` | `Colab` | `Jupyter` | `Git` 
+`VS Code` | `Colab` | `Git` 
 
 ---
 
@@ -96,8 +96,4 @@ A library chatbot designed to assist users with book searches, queries, and libr
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aashiq2930&label=Profile%20Views&color=1F6FEB&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Error%20404%20🙃-58A6FF?style=flat-square" />
-</p>
-
-<p align="center">
-  💡 “Teaching machines to learn is an art — and I’m the artist behind the art.”  
 </p>
